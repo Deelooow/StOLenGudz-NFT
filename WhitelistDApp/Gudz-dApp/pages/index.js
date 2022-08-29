@@ -192,7 +192,6 @@ export default function Home() {
   return (
     <div>
       <Head>
-      document.getElementById('a').style.backgroundImage="url(/public/bckgrd.png)";
         <title>Gudzlist Dapp</title>
         <meta name="description" content="Gudz-Dapp" />
         <link rel="icon" href="/favicon2.png" />
