@@ -7,6 +7,7 @@
   margin: auto;
   align-items: center;
   font-family: "Helvetica", Helvetica, sans-serif, monospace;
+  document.body.style.backgroundImage = "url(./public/bckgrd.png)";
 }
 
 .footer {
